@@ -131,7 +131,6 @@ bool rgb_matrix_indicators_advanced_user(uint8_t led_min, uint8_t led_max) { //L
                 rgb_matrix_set_color(3, 255, 49, 0);
                 rgb_matrix_set_color(4, 255, 49, 0);
 
-
                 break;
             default:
                 break;
